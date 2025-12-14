@@ -75,6 +75,18 @@ learning techniques.
 
 ---
 
+## 📊 Key Visual Insights
+
+### Fraud vs Non-Fraud Distribution
+![Fraud Distribution](images/fraud_distribution.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+### Feature Importance
+![Feature Importance_xgb](images/feature_importance_xgb.png)
+![Feature Importance_rf](images/feature_importance_rf.png)
+
 ## 📂 Repository Structure
 
 Online-Payment-Fraud-Detection-Capstone/
