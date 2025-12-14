@@ -25,8 +25,6 @@ learning techniques.
 - Highly imbalanced target variable (`isFraud`)
 - Cleaned and processed dataset used for modeling
 
-> ⚠️ Note: Due to GitHub file size limits, the cleaned dataset is provided in ZIP format.
-
 ---
 
 ## 🛠 Tools & Technologies
