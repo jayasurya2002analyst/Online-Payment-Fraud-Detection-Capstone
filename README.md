@@ -88,6 +88,9 @@ learning techniques.
 
 ![Feature Importance_rf](images/feature_importance_rf.png)
 
+### BOXPLOT 
+![Amout_vs_Fraud](images/amt_vs_Frd.png)
+
 ## 📂 Repository Structure
 
 Online-Payment-Fraud-Detection-Capstone/
