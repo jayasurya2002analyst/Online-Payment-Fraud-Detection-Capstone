@@ -86,6 +86,7 @@ learning techniques.
 ### Feature Importance
 ![Feature Importance_xgb](images/feature_importance_xgb.png)
 
+![Feature Importance_rf](images/feature_importance_rf.png)
 
 ## 📂 Repository Structure
 
