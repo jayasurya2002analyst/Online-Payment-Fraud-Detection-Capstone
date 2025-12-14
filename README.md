@@ -84,7 +84,7 @@ learning techniques.
 ![Correlation Heatmap](images/correlation_heatmap.png)
 
 ### Feature Importance
-![Feature Importance_xgb](images/feature_importance_xgb.png)
+![Feature Importance_xgb](images/feature_important_xgb)
 ![Feature Importance_rf](images/feature_importance_rf.png)
 
 ## 📂 Repository Structure
